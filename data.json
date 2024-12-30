@@ -4,15 +4,57 @@
             "name": "1",
             "combo": "== 선택 ==",
             "account": "1",
-            "stockPrice": 50000,
+            "stockPrice": 61900,
             "sharesOwned": 100
         },
         {
             "name": "김하하",
             "combo": "토스증권",
             "account": "1234123412341234",
-            "stockPrice": 75000,
+            "stockPrice": 61900,
             "sharesOwned": 200
+        },
+        {
+            "name": "서민성",
+            "combo": "삼성증권",
+            "account": "16308723",
+            "stockPrice": 61900,
+            "sharesOwned": 8
+        },
+        {
+            "name": "박영민",
+            "combo": "한국투자증권",
+            "account": "69745877858",
+            "stockPrice": 61900,
+            "sharesOwned": 15
+        },
+        {
+            "name": "김아영",
+            "combo": "키움증권",
+            "account": "67534836",
+            "stockPrice": 61900,
+            "sharesOwned": 540
+        },
+        {
+            "name": "김정현",
+            "combo": "키움증권",
+            "account": "15681024",
+            "stockPrice": 61900,
+            "sharesOwned": 10000
+        },
+        {
+            "name": "김승호",
+            "combo": "키움증권",
+            "account": "88542354",
+            "stockPrice": 61900,
+            "sharesOwned": 2310
+        },
+        {
+            "name": "김승한",
+            "combo": "삼성증권",
+            "account": "65204541",
+            "stockPrice": 61900,
+            "sharesOwned": 300
         }
     ]
 }
